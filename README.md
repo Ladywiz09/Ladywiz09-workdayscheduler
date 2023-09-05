@@ -33,3 +33,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 
 THEN the saved events persist
+
+<img width="1420" alt="workdayscheduler" src="https://github.com/Ladywiz09/workdayscheduler/assets/105811958/7a6f1ed7-ca07-49a2-a2ce-02e2f926bcb6">
